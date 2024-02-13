@@ -1,5 +1,5 @@
 #pragma once
-#include <atlctrlx.h>
+#include "../wtl/atlctrlx.h"
 #include "DarkMode.h"
 
 namespace DarkMode {
