@@ -1,2 +1,5 @@
-# foobar2000-SDK
-clone of the foobar2000 SDK for convenience
+# foobar2000 SDK, version 2024-12-02
+
+Documentation:
+[SDK Change Log](https://www.foobar2000.org/changelog-sdk)
+[foobar2000 Development Overview ](https://www.foobar2000.org/RTFM)
